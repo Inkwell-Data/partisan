@@ -1,6 +1,6 @@
 {application,partisan,
              [{description,"Scalable peer service for Lasp"},
-              {vsn,"4.1.0"},
+              {vsn,"4.2.1"},
               {registered,[]},
               {applications,[kernel,stdlib,crypto,types,acceptor_pool,
                              ssl,uuid]},
